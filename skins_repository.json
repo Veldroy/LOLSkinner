@@ -1,0 +1,12 @@
+{
+    "skins": [
+        {
+            "name": "Custom Ashe",
+            "path": "./skins/ashe_custom"
+        },
+        {
+            "name": "Custom Garen",
+            "path": "./skins/garen_custom"
+        }
+    ]
+}
